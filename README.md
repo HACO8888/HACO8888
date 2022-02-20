@@ -1,6 +1,6 @@
 <h1 align="center">🌐 Hi ! I'm Haco 🌐</h1>
 
-# MR.HACO's Personal Information
+<h3 align="center">‼️ Information ‼️</h3>
 ```
 Hi ! I am Haco
 I am a student from Taiwan 
