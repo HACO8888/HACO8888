@@ -1,7 +1,5 @@
 <h1 align="center">🌐 Hi ! I'm Haco 🌐</h1>
 
-------
-
 <!-- # MR.HACO's Personal Information
 ```
 Hi ! I am Haco
