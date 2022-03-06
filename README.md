@@ -22,6 +22,17 @@ If you have any question just DM me in Discord => MR.HACO#8888
   <a href="https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
 </p>
 
+<h2 align="center">🔧 Codeing Tool🔧</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=2bbc8a"/>
+</p>
+
 <h2 align="center">🪪 Profile Card 🪪</h2>
 
 <p align="center">
