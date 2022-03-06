@@ -42,15 +42,3 @@ If you have any question just DM me in Discord => MR.HACO#8888
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MRHACO&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="450px" />
   <img src="https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight" width="450px" />
 </p>
-
-
-
-<!-- [![MRHACO's More use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MRHACO&layout=compact&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/MRHACO/) -->
-<!-- 
-# MR.HACO's GitHub Profile Card
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRHACO&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRHACO&theme=nord_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRHACO&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRHACO&theme=nord_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRHACO&theme=nord_dark)
-# Looking for more language?
-Coming Soon... -->
