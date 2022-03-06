@@ -28,6 +28,7 @@ If you have any question just DM me in Discord => MR.HACO#8888
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=2bbc8a"/>
@@ -36,10 +37,10 @@ If you have any question just DM me in Discord => MR.HACO#8888
 <h2 align="center">🪪 Profile Card 🪪</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MRHACO&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="450px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight" width="450px"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MRHACO&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight" width="450px" />
 </p>
 
 
