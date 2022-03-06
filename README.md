@@ -13,9 +13,14 @@ If you have any question just DM me in Discord => MR.HACO#8888
 
 <p align="center">
   <a href="mailto:jasonytonlinecomeandsee@gmail.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
+  <a href="https://www.youtube.com/c/HACO8888/" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
+  <a href="https://discord.com/users/508964901415550976/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
+  <a href="https://www.facebook.com/Jasonlindino/" target="_blanket"><img src="https://i.imgur.com/QSbGZlp.png"/></a>
+  <a href="https://www.instagram.com/jason_lin_0222/" target="_blanket"><img src="https://cdn.icon-icons.com/icons2/1584/PNG/64/3721672-instagram_108066.png"/></a>
+  <a href="https://twitter.com/MRHACO8888" target="_blanket"><img src="https://i.imgur.com/0OImlv3.png"/></a>
+  <a href="https://www.reddit.com/user/DevelopmentHealthy48" target="_blanket"><img src="https://i.imgur.com/ridAHl2.png"/></a>
+  <a href="https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
 </p>
-
-[![](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png)](mailto:jasonytonlinecomeandsee@gmail.com)   [![](https://i.imgur.com/kk27I6n.png)](https://www.youtube.com/c/HACO8888)   [![](https://i.imgur.com/XaAYKfF.png)](https://discord.com/users/508964901415550976)   [![](https://i.imgur.com/QSbGZlp.png)](https://www.facebook.com/Jasonlindino/)    [![](https://cdn.icon-icons.com/icons2/1584/PNG/64/3721672-instagram_108066.png)](https://www.instagram.com/jason_lin_0222/)   [![](https://i.imgur.com/0OImlv3.png)](https://twitter.com/MRHACO8888)   [![](https://i.imgur.com/kMoieKl.png)](https://www.twitch.tv/jasonlindino)   [![](https://i.imgur.com/ridAHl2.png)](https://www.reddit.com/user/DevelopmentHealthy48)   [![](https://i.imgur.com/6bxPJal.png)](https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu)
 
 <h2 align="center">🪪 Profile Card 🪪</h2>
 
