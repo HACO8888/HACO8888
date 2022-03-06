@@ -15,7 +15,8 @@ If you have any question just DM me in Discord => MR.HACO#8888
 
 <h2 align="center">🪪 Profile Card 🪪</h2>
 
-[![MRHACO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRHACO)](https://github.com/anuraghazra/github-readme-stats)
+[![MRHACO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/MRHACO/)
+[![MRHACO's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MRHACO&layout=compact&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/MRHACO/)
 <!-- 
 # MR.HACO's GitHub Profile Card
 
