@@ -15,8 +15,13 @@ If you have any question just DM me in Discord => MR.HACO#8888
 
 <h2 align="center">🪪 Profile Card 🪪</h2>
 
-[![MRHACO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/MRHACO/)
-[![MRHACO's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MRHACO&layout=compact&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/MRHACO/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MRHACO&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727)](https://git.io/streak-stats)
+[![MRHACO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/MRHACO/)
+
+
+
+
+<!-- [![MRHACO's More use language](https://github-readme-stats.vercel.app/api/top-langs/?username=MRHACO&layout=compact&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/MRHACO/) -->
 <!-- 
 # MR.HACO's GitHub Profile Card
 
