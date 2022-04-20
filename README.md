@@ -22,7 +22,7 @@ If you have any question just DM me in Discord => MR.HACO#8888
   <a href="https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
 </p>
 
-<h2 align="center">🔧 Codeing Tool🔧</h2>
+<h2 align="center">🔧 Coding Tool🔧</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
