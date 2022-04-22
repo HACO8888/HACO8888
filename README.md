@@ -42,6 +42,6 @@ If you have any question just DM me in Discord => MR.HACO#8888
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MRHACO&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRHACO&repo=MRHACO&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRHACO&repo=HACO-CODE-WORLD&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRHACO&repo=MR.SHARK&theme=tokyonight" />
 </p>
