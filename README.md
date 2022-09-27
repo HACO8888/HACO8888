@@ -4,6 +4,7 @@
 
 ```
 I am a student from Taiwan 
+My Real Name => Lin Chieh Sheng
 I have my own Development and Discord Bot
 I like coding bot, website, software, app
 If you have any question just DM me in Discord => MR.HACO#8888
