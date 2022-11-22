@@ -26,13 +26,24 @@ If you have any question just DM me in Discord => MR.HACO#8888
 <h2 align="center">🔧 Coding Tool🔧</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6"/>
+  <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26"/>
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6"/>
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=777BB4"/>
+  <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D"/>
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
+  <img src="https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/Code-MarkDown-informational?style=flat&logo=mdx&logoColor=white&color=1B1F24"/>
+  <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=4285F4"/>
+  <img src="https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=Vultr&logoColor=white&color=007BFC"/>
+  <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=F26207"/>
+  <img src="https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7"/>
+  <img src="https://img.shields.io/badge/Movie-Netflix-informational?style=flat&logo=Netflix&logoColor=white&color=E50914"/>
+  <img src="https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=Spotify&logoColor=white&color=1DB954"/>
 </p>
 
 <h2 align="center">🪪 Profile Card 🪪</h2>
