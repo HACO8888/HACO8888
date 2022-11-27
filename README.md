@@ -46,7 +46,7 @@ If you have any question just DM me in Discord => MR.HACO#8888
   <img src="https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=Spotify&logoColor=white&color=1DB954"/>
 </p>
 
-<h2 align="center">🪪 Profile Card 🪪</h2>
+<h2 align="center">📁 Profile Card 📁</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
