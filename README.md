@@ -7,7 +7,7 @@ I am a student from Taiwan
 My Real Name => Lin Chieh Sheng
 I have my own Development and Discord Bot
 I like coding bot, website, software, app
-If you have any question just DM me in Discord => MR.HACO#8888
+If you have any question just DM me in Discord => HACO#8888
 ```
 
 <h2 align="center">🔗 Social Link 🔗</h2>
