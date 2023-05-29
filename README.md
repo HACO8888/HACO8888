@@ -49,8 +49,11 @@ If you have any question just DM me in Discord => HACO#8888
 <h2 align="center">📁 Profile Card 📁</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACO8888&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MRHACO&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MRHACO&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=HACO8888&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=DD2727" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HACO8888&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=HACO-CODE-WORLD&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=MDHS-KD1-WEB&theme=tokyonight" />
 </p>
