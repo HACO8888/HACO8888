@@ -3,11 +3,10 @@
 <h2 align="center">‼️ Information ‼️</h2>
 
 ```
-林杰陞 Lin Chieh Sheng
-I am a student from Taiwan 
-I am from 明道中學 Mingdao High School
-I have my own Development and Discord Bot
-I like coding bot, website, software, app
+A student developer from Taiwan.
+I have own Tech Team and Company
+I love try every new and cool things.
+I like coding bot, website, software, app.
 If you have any question just DM me in Discord => HACO#8888
 ```
 
