@@ -54,6 +54,6 @@ If you have any question just DM me in Discord => HACO#8888
 <!--   <img src="https://streak-stats.demolab.com?user=HACO8888&theme=tokyonight&date_format=%5BY.%5Dn.j" width="400px" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=HACO8888&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
   <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=Haco-Main-Website&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=HACO-CODE-WORLD&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=MDHS-KD1-WEB&theme=tokyonight" />
 </p>
