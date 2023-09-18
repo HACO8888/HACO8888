@@ -7,7 +7,7 @@ A student developer from Taiwan.
 I have own Tech Team and Company
 I love try every new and cool things.
 I like coding bot, website, software, app.
-If you have any question just DM me in Discord => HACO#8888
+If you have any question just DM me in Discord => haco.tw
 ```
 
 <h2 align="center">🔗 Social Link 🔗</h2>
