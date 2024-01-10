@@ -49,7 +49,7 @@ If you have any question just DM me in Discord => haco.tw
 <h2 align="center">📁 Profile Card 📁</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HACO8888&show_icons=true&count_private=false&theme=tokyonight" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HACO8888&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACO8888&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
 <!--   <br> -->
 <!--   <img src="https://streak-stats.demolab.com?user=HACO8888&theme=tokyonight&date_format=%5BY.%5Dn.j" width="400px" /> -->
