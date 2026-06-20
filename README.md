@@ -1,60 +1,118 @@
-<h1 align="center">🌐 Hi ! I'm Haco 🌐</h1>
+<h1 align="center">Hi, I'm Haco 👋</h1>
 
-<h2 align="center">‼️ Information ‼️</h2>
+<p align="center">
+  <a href="https://www.haco.tw">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=650&height=55&lines=Self-taught+developer+from+Taiwan;Co-founder+%40+Lazco;Network+engineer+running+AS213428;From+frontend+all+the+way+down+to+BGP;Rover+Scout+who+camps+around+the+world" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <b>林杰陞 · Jason Lin</b><br>
+  Co-founder <a href="https://www.lazco.tw">@Lazco</a> · Information &amp; Financial Management @ NTUT (北科大) · Rover Scout ⚜️
+</p>
+
+<p align="center">
+  <a href="https://www.haco.tw"><img src="https://img.shields.io/badge/Website-haco.tw-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://bgp.tools/as/213428"><img src="https://img.shields.io/badge/ASN-AS213428-1572B6?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=HACO8888&style=for-the-badge&color=7C3AED&label=Profile+Views">
+</p>
+
+---
+
+### 🧑‍💻 About me
+
+```text
+Started with EV3 & Scratch in elementary school, moved on to Arduino
+and PHP CMS in middle school, and never really left the keyboard since.
+
+Today I build websites, run servers, and operate cloud & network
+infrastructure — from the frontend all the way down to BGP.
+
+By day:   Information & Financial Management student at NTUT.
+Any time: co-founding & operating Lazco.
+Off-screen: a Rover Scout who has camped in Korea, Japan & Portugal.
 ```
-A student developer from Taiwan.
-I have own Tech Team and Company
-I love try every new and cool things.
-I like coding bot, website, software, app.
-If you have any question just DM me in Discord => haco.tw
-```
 
-<h2 align="center">🔗 Social Link 🔗</h2>
+### 🚀 What I'm up to
+
+- 🏢 Running **[Lazco](https://www.lazco.tw)** — client websites, server hosting & cloud infrastructure
+- 🌐 Operating my own **[AS213428](https://bgp.tools/as/213428)**, deep in BGP / routing / IPv4 & IPv6
+- 🎓 Studying **Information & Financial Management** at NTUT, blending the CS and finance perspectives
+- 🧩 Maintaining the **[MDSIG](https://sig.mingdao.edu.tw)** learning platform & **MDTC** talent-cloud for my high-school alumni
+- 🔐 Hanging around the infosec & dev community — SITCON / HITCON / TWNOG / CYBERSEC
+
+### 🛠 Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Database & ORM**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+**Infra & Network**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![FRP](https://img.shields.io/badge/FRP-188FFF?style=for-the-badge)
+![BGP](https://img.shields.io/badge/BGP-AS213428-EE0000?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WHMCS](https://img.shields.io/badge/WHMCS-0073CF?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:jasonytonlinecomeandsee@gmail.com" target="_blanket"><img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png"/></a>
-  <a href="https://www.youtube.com/c/HACO8888/" target="_blanket"><img src="https://i.imgur.com/kk27I6n.png"/></a>
-  <a href="https://discord.com/users/508964901415550976/" target="_blanket"><img src="https://i.imgur.com/XaAYKfF.png"/></a>
-  <!-- <a href="https://www.facebook.com/Jasonlindino/" target="_blanket"><img src="https://i.imgur.com/QSbGZlp.png"/></a> -->
-  <a href="https://www.instagram.com/jason_lin_0222/" target="_blanket"><img src="https://cdn.icon-icons.com/icons2/1584/PNG/64/3721672-instagram_108066.png"/></a>
-  <a href="https://twitter.com/MRHACO8888" target="_blanket"><img src="https://i.imgur.com/0OImlv3.png"/></a>
-  <a href="https://www.reddit.com/user/DevelopmentHealthy48" target="_blanket"><img src="https://i.imgur.com/ridAHl2.png"/></a>
-  <a href="https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu" target="_blanket"><img src="https://i.imgur.com/6bxPJal.png"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HACO8888&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACO8888&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=tokyonight" />
 </p>
-
-<h2 align="center">🔧 Coding Tool🔧</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6"/>
-  <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=000000"/>
-  <img src="https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26"/>
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6"/>
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=777BB4"/>
-  <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D"/>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
-  <img src="https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=000000"/>
-  <img src="https://img.shields.io/badge/Code-MarkDown-informational?style=flat&logo=mdx&logoColor=white&color=1B1F24"/>
-  <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GoogleCloud&logoColor=white&color=4285F4"/>
-  <img src="https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=Vultr&logoColor=white&color=007BFC"/>
-  <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=F26207"/>
-  <img src="https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7"/>
-  <img src="https://img.shields.io/badge/Movie-Netflix-informational?style=flat&logo=Netflix&logoColor=white&color=E50914"/>
-  <img src="https://img.shields.io/badge/Music-Spotify-informational?style=flat&logo=Spotify&logoColor=white&color=1DB954"/>
+  <img src="https://streak-stats.demolab.com?user=HACO8888&hide_border=true&theme=tokyonight&date_format=%5BY.%5Dn.j" />
 </p>
 
-<h2 align="center">📁 Profile Card 📁</h2>
+### 🔗 Find me
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HACO8888&show_icons=true&count_private=true&theme=tokyonight" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACO8888&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
-<!--   <br> -->
-<!--   <img src="https://streak-stats.demolab.com?user=HACO8888&theme=tokyonight&date_format=%5BY.%5Dn.j" width="400px" /> -->
-
-<!--   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=Haco-Main-Website&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HACO8888&repo=HACO-CODE-WORLD&theme=tokyonight" /> -->
+  <a href="https://www.haco.tw"><img src="https://img.shields.io/badge/haco.tw-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:jasonytonlinecomeandsee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/HACO8888/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://discord.com/users/508964901415550976/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://twitter.com/MRHACO8888"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/jason_lin_0222/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/HacoDeveloper/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31bph3i2ybq5mzicui3cxvfghpmu"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
+
+<p align="center"><i>Frontend to BGP, and a tent somewhere in between.</i></p>
