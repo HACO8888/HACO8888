@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.haco.tw">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=650&height=55&lines=Self-taught+developer+from+Taiwan;Co-founder+%40+Lazco;Network+engineer+running+AS213428;From+frontend+all+the+way+down+to+BGP;Rover+Scout+who+camps+around+the+world" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=650&height=55&lines=Self-taught+developer+from+Taiwan;Co-founder+%40+Lazco;Network+engineer+running+AS131630+%26+AS213428;From+frontend+all+the+way+down+to+BGP;Rover+Scout+who+camps+around+the+world" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 
 <p align="center">
   <a href="https://www.haco.tw"><img src="https://img.shields.io/badge/Website-haco.tw-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://bgp.tools/as/213428"><img src="https://img.shields.io/badge/ASN-AS213428-1572B6?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
+  <a href="https://bgp.tools/as/131630"><img src="https://img.shields.io/badge/Lazco-AS131630-1572B6?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
+  <a href="https://bgp.tools/as/213428"><img src="https://img.shields.io/badge/Personal-AS213428-6E5494?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=HACO8888&style=for-the-badge&color=7C3AED&label=Profile+Views">
 </p>
 
@@ -36,7 +37,7 @@ Off-screen: a Rover Scout who has camped in Korea, Japan & Portugal.
 ### 🚀 What I'm up to
 
 - 🏢 Running **[Lazco](https://www.lazco.tw)** — client websites, server hosting & cloud infrastructure
-- 🌐 Operating my own **[AS213428](https://bgp.tools/as/213428)**, deep in BGP / routing / IPv4 & IPv6
+- 🌐 Operating Lazco's production network **[AS131630](https://bgp.tools/as/131630)** alongside my own **[AS213428](https://bgp.tools/as/213428)** — deep in BGP / routing / IPv4 & IPv6
 - 🎓 Studying **Information & Financial Management** at NTUT, blending the CS and finance perspectives
 - 🧩 Maintaining the **[MDSIG](https://sig.mingdao.edu.tw)** learning platform & **MDTC** talent-cloud for my high-school alumni
 - 🔐 Hanging around the infosec & dev community — SITCON / HITCON / TWNOG / CYBERSEC
@@ -82,7 +83,7 @@ Off-screen: a Rover Scout who has camped in Korea, Japan & Portugal.
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![FRP](https://img.shields.io/badge/FRP-188FFF?style=for-the-badge)
-![BGP](https://img.shields.io/badge/BGP-AS213428-EE0000?style=for-the-badge)
+![BGP](https://img.shields.io/badge/BGP-EE0000?style=for-the-badge)
 
 **Tools & Platforms**
 
